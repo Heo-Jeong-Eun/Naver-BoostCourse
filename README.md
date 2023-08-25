@@ -1,4 +1,4 @@
-## Naver BoostCourse CS AI BASIC
+# Naver BoostCourse CS AI BASIC
 
 네이버 부스트코스 코칭스터디 인공지능 기초 
 
